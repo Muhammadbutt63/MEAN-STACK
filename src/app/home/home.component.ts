@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-
+public myName:string="Muhammad Butt";
+public myAge:number=25;
 }
